@@ -1,15 +1,9 @@
-Perfect 👍
-Below is a **clean, professional README.md** for your **TOPSIS Web Application**, written in the **same format and level** as the Facial Expression Recognition example — suitable for **GitHub, deployment, viva, and submission**.
 
-You can **copy–paste this directly into `README.md`**.
+Title: TOPSIS Decision Support Web Application**
 
 ---
 
-# **Title: TOPSIS Decision Support Web Application**
-
----
-
-## **1. Methodology**
+1. Methodology**
 
 The project implements the **TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)** method, a widely used **Multi-Criteria Decision Making (MCDM)** technique.
 
@@ -26,7 +20,7 @@ This method helps in selecting the best alternative when multiple conflicting cr
 
 ---
 
-## **2. Description**
+2. Description**
 
 This web-based TOPSIS application allows users to:
 
@@ -45,7 +39,7 @@ The application ensures input validation and produces accurate ranking results b
 
 ---
 
-## **3. Input / Output**
+3. Input / Output**
 
 ### **Input**
 
@@ -75,15 +69,10 @@ The application ensures input validation and produces accurate ranking results b
 
 ---
 
-## **5. Screenshot of the Interface**
-
-<img src="https://via.placeholder.com/700x400.png?text=TOPSIS+Web+Application+Interface" width="70%" height="70%">
-
-*(Screenshot can be replaced with actual UI image later)*
 
 ---
 
-## **6. Technologies Used**
+## **5. Technologies Used**
 
 * Python
 * Flask
@@ -95,19 +84,11 @@ The application ensures input validation and produces accurate ranking results b
 
 ---
 
-## **7. Author**
+## **6. Author**
 
 **Developed by:**
 **Pallika Malhotra**
 TOPSIS Decision Support System
-
----
-
-## **8. Notes**
-
-* Email functionality can be extended using SMTP services.
-* The application can be scaled for large datasets.
-* Suitable for academic, research, and decision-support use cases.
 
 ---
 
@@ -122,11 +103,4 @@ TOPSIS Decision Support System
 
 ---
 
-If you want, next I can:
 
-* Add **architecture diagram**
-* Add **API documentation**
-* Convert this into **IEEE / project report format**
-* Create **resume-ready project description**
-
-Just say **next** 🚀
