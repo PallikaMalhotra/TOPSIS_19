@@ -104,5 +104,8 @@ TOPSIS Decision Support System
 3. Submit the form
 4. Download the result CSV
 ```
+## PyPI Package
+https://pypi.org/project/Topsis-Pallika-102313055/
 
 ---
+
