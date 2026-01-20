@@ -1,9 +1,9 @@
 
-Title: TOPSIS Decision Support Web Application**
+# **Title: TOPSIS Decision Support Web Application**
 
 ---
 
-1. Methodology**
+## **1. Methodology**
 
 The project implements the **TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)** method, a widely used **Multi-Criteria Decision Making (MCDM)** technique.
 
@@ -20,7 +20,7 @@ This method helps in selecting the best alternative when multiple conflicting cr
 
 ---
 
-2. Description**
+## **2. Description**
 
 This web-based TOPSIS application allows users to:
 
@@ -39,7 +39,7 @@ The application ensures input validation and produces accurate ranking results b
 
 ---
 
-3. Input / Output**
+## **3. Input / Output**
 
 ### **Input**
 
@@ -64,11 +64,7 @@ The application ensures input validation and produces accurate ranking results b
 ## **4. Live Link**
 
 🔗 **Live Application:**
-[https://topsis-web.onrender.com](https://topsis-web.onrender.com)
-*(Replace with your actual Render link if different)*
-
----
-
+https://topsis-19.onrender.com/
 
 ---
 
@@ -92,6 +88,14 @@ TOPSIS Decision Support System
 
 ---
 
+## **7. Notes**
+
+* Email functionality can be extended using SMTP services.
+* The application can be scaled for large datasets.
+* Suitable for academic, research, and decision-support use cases.
+
+---
+
 ### ✅ How to use
 
 ```bash
@@ -102,5 +106,3 @@ TOPSIS Decision Support System
 ```
 
 ---
-
-
